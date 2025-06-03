@@ -8,7 +8,7 @@ Frontend Developer
 
 ## 📝 Summary
 
-Passionate and experienced Frontend Developer with a strong background in building scalable web applications. Proficient in modern JavaScript frameworks and libraries, with a keen eye for detail and a commitment to delivering high-quality user experiences.
+Frontend developer with 10+ years of experience. I love clean and responsive layout, working with React, Redux, TypeScript. Constantly learning - currently learning Next.js and fullstack development. I post tasks from work and interviews on GitHub.
 
 ---
 
