@@ -2,7 +2,7 @@
 
 Frontend Developer
 
-[✉️ Email](mailto:isylakov@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/igor-silakov-92854285/) | [👨‍💻 GitHub](https://github.com/IhorSylakov)
+[✉️ Email](mailto:isylakov@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/ihor-sylakov/) | [👨‍💻 GitHub](https://github.com/IhorSylakov)
 
 ---
 
